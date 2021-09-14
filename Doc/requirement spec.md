@@ -1,6 +1,8 @@
 
 #1. Introduction
+This is a project started by the European Union to help evereybody to everything.
 
 #2. Current situation
+Today not everone can do everything.
 
 #3. Dream system
