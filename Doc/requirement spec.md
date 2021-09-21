@@ -11,3 +11,4 @@ We miss a very good general purpose information system.
 We need a very good information system....
 The system must use a well known database system.
 The chosen platform should be  scalable.
+The user interface should be responsive.
