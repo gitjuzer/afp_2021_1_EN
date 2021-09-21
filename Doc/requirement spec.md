@@ -10,3 +10,4 @@ We miss a very good general purpose information system.
 #3. Dream system
 We need a very good information system....
 The system must use a well known database system.
+The user iterface should be responsive.
