@@ -7,3 +7,4 @@ Today not everone can do everything.
 
 #3. Dream system
 We need a very good information system....
+The system must use a well known database system.
