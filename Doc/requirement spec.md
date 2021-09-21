@@ -4,6 +4,7 @@ This is a project started by the European Union to help evereybody to everything
 
 #2. Current situation
 Today not everone can do everything.
+We miss a very good general purpose information system.
 
 #3. Dream system
 We need a very good information system....
